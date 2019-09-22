@@ -1,11 +1,8 @@
----
-tags: [Notebooks/Github]
-title: Untitles
-created: '2019-09-22T04:54:25.920Z'
-modified: '2019-09-22T05:48:23.407Z'
----
+# README
 
-# Untitles
+## What is this?
+This is a repo used for me to learn and test some git commands.
+The following are some commands. Hope it useful for you.
 
 ## You Need to Learn from Here
 [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
